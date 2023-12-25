@@ -32,3 +32,4 @@ Lista de Tarefas:
 - [x] Criar a página da loja
 - [] Finalizar a reunião com o cliente
 - [] Receber pagamento
+
