@@ -5,7 +5,7 @@ ___
 Material dos **exercicos** de *python*.
 
 
-[Acesse meu GitHub](google.com)
+[Acesse meu GitHub](https://google.com/)
 
 
 Lista numerada:
