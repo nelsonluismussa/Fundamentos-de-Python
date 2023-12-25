@@ -15,3 +15,13 @@ Lista numerada:
     1. Teste3
     1. Teste5
 999. Tetse
+
+
+Lista demarcada:
+
+* Teste
+* Teste
+    *Teste
+_ Teste
+* Teste
+* Teste
