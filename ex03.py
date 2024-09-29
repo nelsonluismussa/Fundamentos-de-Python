@@ -1,3 +1,5 @@
+# Estrutura de Decisão
+# if elif else 
 nota1 = 10
 nota2 = 10
 
